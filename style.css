@@ -1,0 +1,30 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ffcccc;
+    color: white;
+    text-align: center;
+  }
+  img{
+    width: 300px;
+    height: 300px;
+  }
+  h1{
+    color: #5f27cd;
+  }
+  p{
+    color:#303952;
+  }
+  div{
+    background-color:#3dc1d3 ;
+  }
+  button{
+    background-color: #f3a683;
+    width: 60px;
+    height: 50px;
+  }
+  body{
+    background-color:#f7d794;
+  }

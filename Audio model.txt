@@ -1,0 +1,3 @@
+audio model
+
+https://teachablemachine.withgoogle.com/models/zSr-2X_64/
